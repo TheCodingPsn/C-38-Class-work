@@ -1,1 +1,2 @@
-# C-38-Class-work
+# synchronousBallMovement
+Ball moving synchronously
